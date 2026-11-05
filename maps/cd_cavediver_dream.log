@@ -9131,3 +9131,1023 @@ Total triangle count: 3650
 Writing w:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\wip-addons\cavediver-dream\cd_cavediver_dream.bsp
 1 second elapsed
 
+
+
+
+materialPath: D:\Programs\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.vmf
+Patching WVT material: maps/cd_cavediver_dream/nature/blendmudmud001a_wvt_patch
+Patching WVT material: maps/cd_cavediver_dream/woowz_map/cavediver_dream/mix/dirt-mud_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material WOOWZ_MAP/CAVEDIVER_DREAM/WATER_DARK is depending on itself through materialvar $bottommaterial! Ignoring...
+Material WOOWZ_MAP/CAVEDIVER_DREAM/WATER3 is depending on itself through materialvar $bottommaterial! Ignoring...
+Material WOOWZ_MAP/CAVEDIVER_DREAM/WATER2 is depending on itself through materialvar $bottommaterial! Ignoring...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 288 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/cavediver_dream*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/cavediver_dream*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (237604 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+.Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 571 texinfos to 287
+Reduced 69 texdatas to 59 (2542 bytes to 2016)
+Writing d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+reading d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.prt
+ 220 portalclusters
+ 365 numportals
+BasePortalVis:       0...1...2...3...4...5...6...7...8...9...10 (0)
+Optimized: 2914 visible clusters (10.06%)
+Total clusters visible: 28964
+Average clusters visible: 131
+Building PAS...
+Average clusters audible: 200
+visdatasize:13219  compressed from 14080
+writing d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[51 texlights parsed from 'lights.rad']
+Loading d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+BuildFacelights:     0...1...2...3...4...5...6...7...8...9...10 (0)
+BuildVisLeafs:       0...1...2...3...4...5...6...7...8...9...10 (1)
+transfers 1837335, max 498
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+Build Patch/Sample Hash Table(s).....Done<0.0047 sec>
+FinalLightFace:      0...1...2...3...4...5...6...7...8...9...10 (0)
+FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ThreadComputeLeafAmbient: 0...1...2...3...4...5...6...7...8...9...10 (1)
+Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/4096          240/196608   ( 0.1%) 
+brushes                673/65535        8076/786420   ( 1.0%) 
+brushsides            8690/655350      69520/5242800  ( 1.3%) 
+planes                9658/65536      193160/1310720  (14.7%) 
+vertexes              2923/65536       35076/786432   ( 4.5%) 
+nodes                  844/65536       27008/2097152  ( 1.3%) 
+texinfos               287/32768       20664/2359296  ( 0.9%) 
+texdata                 59/8192         1888/262144   ( 0.7%) 
+dispinfos               32/0            5632/0        ( 0.0%) 
+disp_verts            2368/0           47360/0        ( 0.0%) 
+disp_tris             3712/0            7424/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       18004/0           18004/0        ( 0.0%) 
+faces                 1619/65536       90664/3670016  ( 2.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              904/65536       50624/3670016  ( 1.4%) 
+leaves                 850/65536       27200/2097152  ( 1.3%) 
+leaffaces             1870/65536        3740/131072   ( 2.9%) 
+leafbrushes           1395/65536        2790/131072   ( 2.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            10993/512000      43972/2048000  ( 2.1%) 
+edges                 6854/256000      27416/1024000  ( 2.7%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            4/32768          48/393216   ( 0.0%) 
+waterstrips            171/32768        1710/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2997/65536        5994/131072   ( 4.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                28/8192         9856/2883584  ( 0.3%) 
+LDR lightdata         [variable]     1827264/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       13219/16777216 ( 0.1%) 
+entdata               [variable]       14435/4194304  ( 0.3%) 
+LDR ambient table      850/65536        3400/262144   ( 1.3%) 
+HDR ambient table      850/65536        3400/262144   ( 1.3%) 
+LDR leaf ambient       321/65536        8988/1835008  ( 0.5%) 
+HDR leaf ambient       850/65536       23800/1835008  ( 1.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]          12/0        ( 0.0%) 
+static props          [variable]        2692/0        ( 0.0%) 
+static prop count       24/16384           0/0        ( 0.1%) 
+pakfile               [variable]      200658/0        ( 0.0%) 
+physics               [variable]      237604/4194304  ( 5.7%) 
+physics terrain       [variable]       10084/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 4161
+Writing d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+2 seconds elapsed
+
+
+
+
+materialPath: D:\Programs\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.vmf
+Patching WVT material: maps/cd_cavediver_dream/nature/blendmudmud001a_wvt_patch
+Patching WVT material: maps/cd_cavediver_dream/woowz_map/cavediver_dream/mix/dirt-mud_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material WOOWZ_MAP/CAVEDIVER_DREAM/WATER_DARK is depending on itself through materialvar $bottommaterial! Ignoring...
+Material WOOWZ_MAP/CAVEDIVER_DREAM/WATER3 is depending on itself through materialvar $bottommaterial! Ignoring...
+Material WOOWZ_MAP/CAVEDIVER_DREAM/WATER2 is depending on itself through materialvar $bottommaterial! Ignoring...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 288 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/cavediver_dream*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/cavediver_dream*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (236212 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+.Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 561 texinfos to 287
+Reduced 69 texdatas to 59 (2542 bytes to 2016)
+Writing d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+reading d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.prt
+ 199 portalclusters
+ 330 numportals
+BasePortalVis:       0...1...2...3...4...5...6...7...8...9...10 (0)
+Optimized: 2563 visible clusters (11.17%)
+Total clusters visible: 22936
+Average clusters visible: 115
+Building PAS...
+Average clusters audible: 180
+visdatasize:11168  compressed from 12736
+writing d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[51 texlights parsed from 'lights.rad']
+Loading d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+BuildFacelights:     0...1...2...3...4...5...6...7...8...9...10 (0)
+BuildVisLeafs:       0...1...2...3...4...5...6...7...8...9...10 (1)
+transfers 1830145, max 498
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+Build Patch/Sample Hash Table(s).....Done<0.0050 sec>
+FinalLightFace:      0...1...2...3...4...5...6...7...8...9...10 (0)
+FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ThreadComputeLeafAmbient: 0...1...2...3...4...5...6...7...8...9...10 (1)
+Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/4096          240/196608   ( 0.1%) 
+brushes                669/65535        8028/786420   ( 1.0%) 
+brushsides            8665/655350      69320/5242800  ( 1.3%) 
+planes                9650/65536      193000/1310720  (14.7%) 
+vertexes              2866/65536       34392/786432   ( 4.4%) 
+nodes                  771/65536       24672/2097152  ( 1.2%) 
+texinfos               287/32768       20664/2359296  ( 0.9%) 
+texdata                 59/8192         1888/262144   ( 0.7%) 
+dispinfos               32/0            5632/0        ( 0.0%) 
+disp_verts            2368/0           47360/0        ( 0.0%) 
+disp_tris             3712/0            7424/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       18004/0           18004/0        ( 0.0%) 
+faces                 1562/65536       87472/3670016  ( 2.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              897/65536       50232/3670016  ( 1.4%) 
+leaves                 777/65536       24864/2097152  ( 1.2%) 
+leaffaces             1813/65536        3626/131072   ( 2.8%) 
+leafbrushes           1345/65536        2690/131072   ( 2.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            10732/512000      42928/2048000  ( 2.1%) 
+edges                 6711/256000      26844/1024000  ( 2.6%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            4/32768          48/393216   ( 0.0%) 
+waterstrips            170/32768        1700/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2991/65536        5982/131072   ( 4.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                28/8192         9856/2883584  ( 0.3%) 
+LDR lightdata         [variable]     1827264/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       11168/16777216 ( 0.1%) 
+entdata               [variable]       14434/4194304  ( 0.3%) 
+LDR ambient table      777/65536        3108/262144   ( 1.2%) 
+HDR ambient table      777/65536        3108/262144   ( 1.2%) 
+LDR leaf ambient       298/65536        8344/1835008  ( 0.5%) 
+HDR leaf ambient       777/65536       21756/1835008  ( 1.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]          12/0        ( 0.0%) 
+static props          [variable]        2692/0        ( 0.0%) 
+static prop count       24/16384           0/0        ( 0.1%) 
+pakfile               [variable]      200658/0        ( 0.0%) 
+physics               [variable]      236212/4194304  ( 5.6%) 
+physics terrain       [variable]       10084/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 4042
+Writing d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+2 seconds elapsed
+
+
+
+
+materialPath: D:\Programs\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.vmf
+Patching WVT material: maps/cd_cavediver_dream/nature/blendmudmud001a_wvt_patch
+Patching WVT material: maps/cd_cavediver_dream/woowz_map/cavediver_dream/mix/dirt-mud_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material WOOWZ_MAP/CAVEDIVER_DREAM/WATER_DARK is depending on itself through materialvar $bottommaterial! Ignoring...
+Material WOOWZ_MAP/CAVEDIVER_DREAM/WATER3 is depending on itself through materialvar $bottommaterial! Ignoring...
+Material WOOWZ_MAP/CAVEDIVER_DREAM/WATER2 is depending on itself through materialvar $bottommaterial! Ignoring...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 288 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/cavediver_dream*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/cavediver_dream*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (236212 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+.Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 561 texinfos to 287
+Reduced 69 texdatas to 59 (2542 bytes to 2016)
+Writing d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+reading d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.prt
+ 199 portalclusters
+ 330 numportals
+BasePortalVis:       0...1...2...3...4...5...6...7...8...9...10 (0)
+PortalFlow:          0...1...2...3...4...5...6...7...8...9...10 (0)
+Optimized: 12 visible clusters (0.09%)
+Total clusters visible: 13293
+Average clusters visible: 66
+Building PAS...
+Average clusters audible: 86
+visdatasize:9001  compressed from 12736
+writing d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[51 texlights parsed from 'lights.rad']
+Loading d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+BuildFacelights:     0...1...2...3...4...5...6...7...8...9...10 (0)
+BuildVisLeafs:       0...1...2...3...4...5...6...7...8...9...10 (1)
+transfers 1830145, max 498
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+Build Patch/Sample Hash Table(s).....Done<0.0059 sec>
+FinalLightFace:      0...1...2...3...4...5...6...7...8...9...10 (0)
+FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ThreadComputeLeafAmbient: 0...1...2...3...4...5...6...7...8...9...10 (1)
+Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/4096          240/196608   ( 0.1%) 
+brushes                669/65535        8028/786420   ( 1.0%) 
+brushsides            8665/655350      69320/5242800  ( 1.3%) 
+planes                9650/65536      193000/1310720  (14.7%) 
+vertexes              2866/65536       34392/786432   ( 4.4%) 
+nodes                  771/65536       24672/2097152  ( 1.2%) 
+texinfos               287/32768       20664/2359296  ( 0.9%) 
+texdata                 59/8192         1888/262144   ( 0.7%) 
+dispinfos               32/0            5632/0        ( 0.0%) 
+disp_verts            2368/0           47360/0        ( 0.0%) 
+disp_tris             3712/0            7424/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       18004/0           18004/0        ( 0.0%) 
+faces                 1562/65536       87472/3670016  ( 2.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              897/65536       50232/3670016  ( 1.4%) 
+leaves                 777/65536       24864/2097152  ( 1.2%) 
+leaffaces             1813/65536        3626/131072   ( 2.8%) 
+leafbrushes           1345/65536        2690/131072   ( 2.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            10732/512000      42928/2048000  ( 2.1%) 
+edges                 6711/256000      26844/1024000  ( 2.6%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            4/32768          48/393216   ( 0.0%) 
+waterstrips            170/32768        1700/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2991/65536        5982/131072   ( 4.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                28/8192         9856/2883584  ( 0.3%) 
+LDR lightdata         [variable]     1827264/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        9001/16777216 ( 0.1%) 
+entdata               [variable]       14434/4194304  ( 0.3%) 
+LDR ambient table      777/65536        3108/262144   ( 1.2%) 
+HDR ambient table      777/65536        3108/262144   ( 1.2%) 
+LDR leaf ambient       299/65536        8372/1835008  ( 0.5%) 
+HDR leaf ambient       777/65536       21756/1835008  ( 1.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]          12/0        ( 0.0%) 
+static props          [variable]        2692/0        ( 0.0%) 
+static prop count       24/16384           0/0        ( 0.1%) 
+pakfile               [variable]      200658/0        ( 0.0%) 
+physics               [variable]      236212/4194304  ( 5.6%) 
+physics terrain       [variable]       10084/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 4042
+Writing d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+2 seconds elapsed
+
+
+
+
+materialPath: D:\Programs\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.vmf
+Patching WVT material: maps/cd_cavediver_dream/nature/blendmudmud001a_wvt_patch
+Patching WVT material: maps/cd_cavediver_dream/woowz_map/cavediver_dream/mix/dirt-mud_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material WOOWZ_MAP/CAVEDIVER_DREAM/WATER_DARK is depending on itself through materialvar $bottommaterial! Ignoring...
+Material WOOWZ_MAP/CAVEDIVER_DREAM/WATER3 is depending on itself through materialvar $bottommaterial! Ignoring...
+Material WOOWZ_MAP/CAVEDIVER_DREAM/WATER2 is depending on itself through materialvar $bottommaterial! Ignoring...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 286 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/cavediver_dream*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/cavediver_dream*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (236244 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+.Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 562 texinfos to 288
+Reduced 69 texdatas to 59 (2542 bytes to 2016)
+Writing d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+reading d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.prt
+ 199 portalclusters
+ 330 numportals
+BasePortalVis:       0...1...2...3...4...5...6...7...8...9...10 (0)
+PortalFlow:          0...1...2...3...4...5...6...7...8...9...10 (0)
+Optimized: 12 visible clusters (0.09%)
+Total clusters visible: 13293
+Average clusters visible: 66
+Building PAS...
+Average clusters audible: 86
+visdatasize:9001  compressed from 12736
+writing d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[51 texlights parsed from 'lights.rad']
+Loading d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+BuildFacelights:     0...1...2...3...4...5...6...7...8...9...10 (0)
+BuildVisLeafs:       0...1...2...3...4...5...6...7...8...9...10 (1)
+transfers 1830175, max 498
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+Build Patch/Sample Hash Table(s).....Done<0.0063 sec>
+FinalLightFace:      0...1...2...3...4...5...6...7...8...9...10 (0)
+FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ThreadComputeLeafAmbient: 0...1...2...3...4...5...6...7...8...9...10 (1)
+Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/4096          240/196608   ( 0.1%) 
+brushes                669/65535        8028/786420   ( 1.0%) 
+brushsides            8665/655350      69320/5242800  ( 1.3%) 
+planes                9650/65536      193000/1310720  (14.7%) 
+vertexes              2868/65536       34416/786432   ( 4.4%) 
+nodes                  771/65536       24672/2097152  ( 1.2%) 
+texinfos               288/32768       20736/2359296  ( 0.9%) 
+texdata                 59/8192         1888/262144   ( 0.7%) 
+dispinfos               32/0            5632/0        ( 0.0%) 
+disp_verts            2368/0           47360/0        ( 0.0%) 
+disp_tris             3712/0            7424/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       18004/0           18004/0        ( 0.0%) 
+faces                 1563/65536       87528/3670016  ( 2.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              897/65536       50232/3670016  ( 1.4%) 
+leaves                 777/65536       24864/2097152  ( 1.2%) 
+leaffaces             1814/65536        3628/131072   ( 2.8%) 
+leafbrushes           1345/65536        2690/131072   ( 2.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            10738/512000      42952/2048000  ( 2.1%) 
+edges                 6715/256000      26860/1024000  ( 2.6%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            4/32768          48/393216   ( 0.0%) 
+waterstrips            170/32768        1700/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2997/65536        5994/131072   ( 4.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                28/8192         9856/2883584  ( 0.3%) 
+LDR lightdata         [variable]     1827460/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        9001/16777216 ( 0.1%) 
+entdata               [variable]       14434/4194304  ( 0.3%) 
+LDR ambient table      777/65536        3108/262144   ( 1.2%) 
+HDR ambient table      777/65536        3108/262144   ( 1.2%) 
+LDR leaf ambient       299/65536        8372/1835008  ( 0.5%) 
+HDR leaf ambient       777/65536       21756/1835008  ( 1.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]          12/0        ( 0.0%) 
+static props          [variable]        2692/0        ( 0.0%) 
+static prop count       24/16384           0/0        ( 0.1%) 
+pakfile               [variable]      200658/0        ( 0.0%) 
+physics               [variable]      236244/4194304  ( 5.6%) 
+physics terrain       [variable]       10084/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 4046
+Writing d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+2 seconds elapsed
+
+
+
+
+materialPath: D:\Programs\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.vmf
+Patching WVT material: maps/cd_cavediver_dream/nature/blendmudmud001a_wvt_patch
+Patching WVT material: maps/cd_cavediver_dream/woowz_map/cavediver_dream/mix/dirt-mud_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material WOOWZ_MAP/CAVEDIVER_DREAM/WATER_DARK is depending on itself through materialvar $bottommaterial! Ignoring...
+Material WOOWZ_MAP/CAVEDIVER_DREAM/WATER3 is depending on itself through materialvar $bottommaterial! Ignoring...
+Material WOOWZ_MAP/CAVEDIVER_DREAM/WATER2 is depending on itself through materialvar $bottommaterial! Ignoring...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 286 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/cavediver_dream*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/cavediver_dream*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (236196 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+.Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 562 texinfos to 288
+Reduced 69 texdatas to 59 (2542 bytes to 2016)
+Writing d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+reading d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.prt
+ 198 portalclusters
+ 325 numportals
+BasePortalVis:       0...1...2...3...4...5...6...7...8...9...10 (0)
+PortalFlow:          0...1...2...3...4...5...6...7...8...9...10 (0)
+Optimized: 12 visible clusters (0.09%)
+Total clusters visible: 13076
+Average clusters visible: 66
+Building PAS...
+Average clusters audible: 85
+visdatasize:8699  compressed from 12672
+writing d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[51 texlights parsed from 'lights.rad']
+Loading d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+BuildFacelights:     0...1...2...3...4...5...6...7...8...9...10 (0)
+BuildVisLeafs:       0...1...2...3...4...5...6...7...8...9...10 (1)
+transfers 1830192, max 498
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+Build Patch/Sample Hash Table(s).....Done<0.0056 sec>
+FinalLightFace:      0...1...2...3...4...5...6...7...8...9...10 (0)
+FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ThreadComputeLeafAmbient: 0...1...2...3...4...5...6...7...8...9...10 (1)
+Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/4096          240/196608   ( 0.1%) 
+brushes                669/65535        8028/786420   ( 1.0%) 
+brushsides            8665/655350      69320/5242800  ( 1.3%) 
+planes                9648/65536      192960/1310720  (14.7%) 
+vertexes              2866/65536       34392/786432   ( 4.4%) 
+nodes                  770/65536       24640/2097152  ( 1.2%) 
+texinfos               288/32768       20736/2359296  ( 0.9%) 
+texdata                 59/8192         1888/262144   ( 0.7%) 
+dispinfos               32/0            5632/0        ( 0.0%) 
+disp_verts            2368/0           47360/0        ( 0.0%) 
+disp_tris             3712/0            7424/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       18004/0           18004/0        ( 0.0%) 
+faces                 1563/65536       87528/3670016  ( 2.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              897/65536       50232/3670016  ( 1.4%) 
+leaves                 776/65536       24832/2097152  ( 1.2%) 
+leaffaces             1815/65536        3630/131072   ( 2.8%) 
+leafbrushes           1344/65536        2688/131072   ( 2.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            10738/512000      42952/2048000  ( 2.1%) 
+edges                 6715/256000      26860/1024000  ( 2.6%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            4/32768          48/393216   ( 0.0%) 
+waterstrips            170/32768        1700/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2997/65536        5994/131072   ( 4.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                28/8192         9856/2883584  ( 0.3%) 
+LDR lightdata         [variable]     1827460/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        8699/16777216 ( 0.1%) 
+entdata               [variable]       13984/4194304  ( 0.3%) 
+LDR ambient table      776/65536        3104/262144   ( 1.2%) 
+HDR ambient table      776/65536        3104/262144   ( 1.2%) 
+LDR leaf ambient       313/65536        8764/1835008  ( 0.5%) 
+HDR leaf ambient       776/65536       21728/1835008  ( 1.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]          12/0        ( 0.0%) 
+static props          [variable]        2692/0        ( 0.0%) 
+static prop count       24/16384           0/0        ( 0.1%) 
+pakfile               [variable]      200658/0        ( 0.0%) 
+physics               [variable]      236196/4194304  ( 5.6%) 
+physics terrain       [variable]       10084/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 4046
+Writing d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+2 seconds elapsed
+
+
+
+
+materialPath: D:\Programs\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.vmf
+Patching WVT material: maps/cd_cavediver_dream/nature/blendmudmud001a_wvt_patch
+Patching WVT material: maps/cd_cavediver_dream/woowz_map/cavediver_dream/mix/dirt-mud_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material WOOWZ_MAP/CAVEDIVER_DREAM/WATER_DARK is depending on itself through materialvar $bottommaterial! Ignoring...
+Material WOOWZ_MAP/CAVEDIVER_DREAM/WATER3 is depending on itself through materialvar $bottommaterial! Ignoring...
+Material WOOWZ_MAP/CAVEDIVER_DREAM/WATER2 is depending on itself through materialvar $bottommaterial! Ignoring...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 286 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/cavediver_dream*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/cavediver_dream*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (236196 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9..Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+.Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/GROUND_DIRT_DRY-GROUND_FOREST_MOSS_ROOT_DIRT_PODZOL uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+Material WOOWZ_MAP/CAVEDIVER_DREAM/MIX/DIRT-MUD uses unknown detail object type plum!
+10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 562 texinfos to 288
+Reduced 69 texdatas to 59 (2542 bytes to 2016)
+Writing d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+0 seconds elapsed
+
+
+
+12 threads
+reading d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+reading d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.prt
+ 198 portalclusters
+ 325 numportals
+BasePortalVis:       0...1...2...3...4...5...6...7...8...9...10 (0)
+PortalFlow:          0...1...2...3...4...5...6...7...8...9...10 (0)
+Optimized: 12 visible clusters (0.09%)
+Total clusters visible: 13076
+Average clusters visible: 66
+Building PAS...
+Average clusters audible: 85
+visdatasize:8699  compressed from 12672
+writing d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[51 texlights parsed from 'lights.rad']
+Loading d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+BuildFacelights:     0...1...2...3...4...5...6...7...8...9...10 (0)
+BuildVisLeafs:       0...1...2...3...4...5...6...7...8...9...10 (1)
+transfers 1830192, max 498
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+Build Patch/Sample Hash Table(s).....Done<0.0049 sec>
+FinalLightFace:      0...1...2...3...4...5...6...7...8...9...10 (0)
+FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ThreadComputeLeafAmbient: 0...1...2...3...4...5...6...7...8...9...10 (1)
+Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/4096          240/196608   ( 0.1%) 
+brushes                669/65535        8028/786420   ( 1.0%) 
+brushsides            8665/655350      69320/5242800  ( 1.3%) 
+planes                9648/65536      192960/1310720  (14.7%) 
+vertexes              2866/65536       34392/786432   ( 4.4%) 
+nodes                  770/65536       24640/2097152  ( 1.2%) 
+texinfos               288/32768       20736/2359296  ( 0.9%) 
+texdata                 59/8192         1888/262144   ( 0.7%) 
+dispinfos               32/0            5632/0        ( 0.0%) 
+disp_verts            2368/0           47360/0        ( 0.0%) 
+disp_tris             3712/0            7424/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples       18004/0           18004/0        ( 0.0%) 
+faces                 1563/65536       87528/3670016  ( 2.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              897/65536       50232/3670016  ( 1.4%) 
+leaves                 776/65536       24832/2097152  ( 1.2%) 
+leaffaces             1815/65536        3630/131072   ( 2.8%) 
+leafbrushes           1344/65536        2688/131072   ( 2.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            10738/512000      42952/2048000  ( 2.1%) 
+edges                 6715/256000      26860/1024000  ( 2.6%) 
+LDR worldlights          3/8192          264/720896   ( 0.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            4/32768          48/393216   ( 0.0%) 
+waterstrips            170/32768        1700/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2997/65536        5994/131072   ( 4.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                28/8192         9856/2883584  ( 0.3%) 
+LDR lightdata         [variable]     1827460/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        8699/16777216 ( 0.1%) 
+entdata               [variable]       13981/4194304  ( 0.3%) 
+LDR ambient table      776/65536        3104/262144   ( 1.2%) 
+HDR ambient table      776/65536        3104/262144   ( 1.2%) 
+LDR leaf ambient       313/65536        8764/1835008  ( 0.5%) 
+HDR leaf ambient       776/65536       21728/1835008  ( 1.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]          12/0        ( 0.0%) 
+static props          [variable]        2692/0        ( 0.0%) 
+static prop count       24/16384           0/0        ( 0.1%) 
+pakfile               [variable]      200658/0        ( 0.0%) 
+physics               [variable]      236196/4194304  ( 5.6%) 
+physics terrain       [variable]       10084/1048576  ( 1.0%) 
+
+Level flags = 0
+
+Total triangle count: 4046
+Writing d:\programs\steam\steamapps\common\garrysmod\garrysmod\addons\cavediver-dream\maps\cd_cavediver_dream.bsp
+2 seconds elapsed
+
