@@ -1,8 +1,0 @@
-"LightmappedGeneric"
-{
-	"$baseTexture" "wyldimaterial/grass/grass01"
-	"$translucent" 1
-	"%compilepassbullets" 1
-	"$nodecal" 1
-	"%keywords" "ep2"
-}

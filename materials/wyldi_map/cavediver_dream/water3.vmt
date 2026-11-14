@@ -1,7 +1,7 @@
 LightmappedGeneric
 {
-	$basetexture "woowz_map/cavediver_dream/water3"
-	$bottommaterial "woowz_map/cavediver_dream/water3"
+	$basetexture "wyldi_map/cavediver_dream/water3"
+	$bottommaterial "wyldi_map/cavediver_dream/water3"
 	$refracttexture "_rt_WaterRefraction"
 	$reflecttexture "_rt_WaterReflection" 
 	

@@ -1,6 +1,6 @@
 LightmappedGeneric
 {
-	$basetexture "woowz_map/cavediver_dream/decals/decal18"
+	$basetexture "wyldi_map/cavediver_dream/decals/decal18"
 	$decal 1
 	$decalscale 0.1
 	$translucent 1

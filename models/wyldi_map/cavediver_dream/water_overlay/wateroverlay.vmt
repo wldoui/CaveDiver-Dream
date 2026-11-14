@@ -1,5 +1,0 @@
-VertexlitGeneric
-{
-	$basetexture "woowz_map\cavediver_dream\water_overlay\wateroverlay"
-	$alphatest 1
-}

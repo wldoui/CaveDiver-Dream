@@ -1,5 +1,5 @@
 DecalModulate
 {
-	$basetexture "woowz_map/cavediver_dream/decals/decal29"
+	$basetexture "wyldi_map/cavediver_dream/decals/decal29"
 	$decalscale 0.5
 }

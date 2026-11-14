@@ -1,5 +1,5 @@
 VertexlitGeneric
 {
-	$basetexture "woowz_map\cavediver_dream\water_overlay\wateroverlay3"
+	$basetexture "wyldi_map\cavediver_dream\water_overlay\wateroverlay3"
 	$alphatest 1
 }

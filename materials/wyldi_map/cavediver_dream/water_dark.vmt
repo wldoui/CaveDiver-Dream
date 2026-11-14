@@ -1,9 +1,9 @@
 LightmappedGeneric
 {
-	$basetexture "woowz_map/cavediver_dream/water_dark"
-	$bottommaterial "woowz_map/cavediver_dream/water_dark"
-	$bumpmap "woowz_map/cavediver_dream/water_n"
-	$normalmap "woowz_map/cavediver_dream/water_n"
+	$basetexture "wyldi_map/cavediver_dream/water_dark"
+	$bottommaterial "wyldi_map/cavediver_dream/water_dark"
+	$bumpmap "wyldi_map/cavediver_dream/water_n"
+	$normalmap "wyldi_map/cavediver_dream/water_n"
 	$refracttexture "_rt_WaterRefraction"
 	$reflecttexture "_rt_WaterReflection"
 	

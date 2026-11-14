@@ -1,7 +1,0 @@
-LightmappedGeneric
-{
-	$basetexture "woowz_map/cavediver_dream/decals/decal30"
-	$decal 1
-	$decalscale 0.25
-	$translucent 1
-}
