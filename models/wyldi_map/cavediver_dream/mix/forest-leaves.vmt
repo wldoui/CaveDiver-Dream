@@ -1,0 +1,18 @@
+WorldVertexTransition
+{
+	$basetexture "woowz_map/cavediver_dream/dirt/forest"
+	$bumpmap "woowz_map/cavediver_dream/dirt/forest_n"
+	$surfaceprop "dirt"
+
+	$basetexture2 "woowz_map/cavediver_dream/dirt/leaves"
+	$bumpmap2 "woowz_map/cavediver_dream/dirt/leaves_n"
+	$surfaceprop2 "grass"
+	
+	$detail "woowz_map/cavediver_dream/noise"
+	$detailscale "0.2"
+	$detailblendfactor "0.5"
+	
+	$blendmodulatetexture "woowz_map/cavediver_dream/mix/forest-leaves"
+	
+	%detailtype "grass"
+}

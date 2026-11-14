@@ -1,0 +1,8 @@
+VertexlitGeneric
+{
+	$basetexture "woowz_map\cavediver_dream\props\boat"
+	$bumpmap "woowz_map\cavediver_dream\props\boat_n"
+ 
+	$phong 1
+	$rimlight 1
+}

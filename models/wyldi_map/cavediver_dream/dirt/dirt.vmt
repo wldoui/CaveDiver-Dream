@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	$basetexture "woowz_map/cavediver_dream/dirt/dirt"
+	$bumpmap "woowz_map/cavediver_dream/dirt/dirt_n"
+	$surfaceprop "dirt"
+	
+	$detail "woowz_map/cavediver_dream/noise"
+	$detailscale "0.2"
+	$detailblendfactor "0.5"
+}

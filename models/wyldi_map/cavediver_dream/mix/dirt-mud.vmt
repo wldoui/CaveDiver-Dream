@@ -1,0 +1,18 @@
+WorldVertexTransition
+{
+	$basetexture "woowz_map/cavediver_dream/dirt/dirt"
+	$bumpmap "woowz_map/cavediver_dream/dirt/dirt_n"
+	$surfaceprop "dirt"
+
+	$basetexture2 "woowz_map/cavediver_dream/dirt/mud"
+	$bumpmap2 "woowz_map/cavediver_dream/dirt/mud_n"
+	$surfaceprop2 "mud"
+	
+	$detail "woowz_map/cavediver_dream/noise"
+	$detailscale "0.2"
+	$detailblendfactor "0.5"
+	
+	$blendmodulatetexture "woowz_map/cavediver_dream/mix/dirt-mud"
+	
+	%detailtype "plum"
+} 

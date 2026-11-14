@@ -1,0 +1,8 @@
+UnlitGeneric
+{
+	$translucent 1
+	$basetexture "woowz_map/cavediver_dream/detail"
+	$nocull 1
+	$vertexcolor 1
+	$vertexalpha 1
+}

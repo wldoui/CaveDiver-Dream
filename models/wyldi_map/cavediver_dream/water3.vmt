@@ -1,0 +1,40 @@
+LightmappedGeneric
+{
+	$basetexture "woowz_map/cavediver_dream/water3"
+	$bottommaterial "woowz_map/cavediver_dream/water3"
+	$refracttexture "_rt_WaterRefraction"
+	$reflecttexture "_rt_WaterReflection" 
+	
+	$bumpmap "dev/water_normal"
+	$texoffset "[0 0]"
+	$texscale 1
+	
+	%compilewater 1
+	$surfaceprop "water"
+	$abovewater 1
+	
+	$scale "[0.2 0.2]"
+	$translucent "1"
+
+	$fogenable 1
+	$fogcolor "{0 0 0}"
+	$fogstart 0
+	$fogend 25
+
+	Proxies
+	{		
+		AnimatedTexture
+		{
+			animatedtexturevar "$bumpmap"
+			animatedtextureframenumvar "$bumpframe"
+			animatedtextureframerate 16
+		}
+	
+		TextureScroll
+		{
+			texturescrollvar "$basetexturetransform"
+			texturescrollrate -0.005
+			texturescrollangle 64
+		}
+	}
+}

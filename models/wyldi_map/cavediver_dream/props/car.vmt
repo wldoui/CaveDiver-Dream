@@ -1,0 +1,8 @@
+VertexlitGeneric
+{
+	$basetexture "woowz_map\cavediver_dream\props\car"
+	$bumpmap "woowz_map\cavediver_dream\props\car_n"
+ 
+	$rimlight 1
+	$nocull 1
+}

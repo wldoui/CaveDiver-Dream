@@ -1,0 +1,5 @@
+VertexlitGeneric
+{
+	$basetexture "woowz_map\cavediver_dream\cobweb"
+	$translucent 1
+}

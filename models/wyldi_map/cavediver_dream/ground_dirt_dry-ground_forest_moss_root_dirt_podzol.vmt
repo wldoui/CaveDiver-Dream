@@ -1,0 +1,20 @@
+WorldVertexTransition
+{
+	%tooltexture "woowz_map/cavediver_dream/ground_dirt_dry-ground_forest_moss_root_dirt_podzol"
+
+	$basetexture "woowz_map/cavediver_dream/ground_dirt_dry"
+	$bumpmap "woowz_map/cavediver_dream/ground_dirt_dry_n"
+	$surfaceprop "mud"
+
+	$basetexture2 "woowz_map/cavediver_dream/dirt/forest"
+	$bumpmap2 "woowz_map/cavediver_dream/dirt/forest_n"
+	$surfaceprop2 "mud"
+	
+	$detail "woowz_map/cavediver_dream/noise"
+	$detailscale "0.2"
+	$detailblendfactor "0.5"
+	
+	$blendmodulatetexture "woowz_map/cavediver_dream/ground_dirt_dry-ground_dirt_leaves_wet_podzol_b"
+	
+	%detailtype "plum"
+}

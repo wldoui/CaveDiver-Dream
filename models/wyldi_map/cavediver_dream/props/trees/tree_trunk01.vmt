@@ -1,0 +1,6 @@
+"vertexlitGeneric"
+{
+	"$basetexture" "woowz_map/cavediver_dream/props/trees/tree_trunk01"
+	"$surfaceprop" "wood"
+	"$model" 1
+}

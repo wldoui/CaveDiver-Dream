@@ -1,0 +1,5 @@
+VertexlitGeneric
+{
+	$basetexture "woowz_map\cavediver_dream\props\ladder_step"
+	$surfaceprop "solidmetal"
+}

@@ -1,0 +1,5 @@
+DecalModulate
+{
+	$basetexture "woowz_map/cavediver_dream/decals/decal29"
+	$decalscale 0.5
+}
